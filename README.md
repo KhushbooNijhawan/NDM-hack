@@ -36,6 +36,9 @@ To solve this DorMir is all in one solution in form of a pocket-sized device tha
 - Numpy
 - Pillow
 
+## Hardware Setup:
+![WhatsApp Image 2022-08-20 at 3 49 53 AM](https://user-images.githubusercontent.com/79616524/185716024-93dd5708-ac77-4949-8279-47a5be34a55d.jpg)
+![WhatsApp Image 2022-08-20 at 3 51 01 AM](https://user-images.githubusercontent.com/79616524/185716038-954a9df0-d43c-435c-a8f4-e756071be78c.jpg)
 
 	
 ## How it works📃:
